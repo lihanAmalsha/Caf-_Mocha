@@ -1,0 +1,13 @@
+1001,10.50
+1002,12.00
+1003,8.75
+Order Number: 1001, Total Bill: $12.5
+Order Number: 1010, Total Bill: $5.75
+Order Number: 1010, Total Bill: $0.0
+Order Number: 1003, Total Bill: $9.5
+Order Number: 1012, Total Bill: $8.5
+Order Number: 1010, Total Bill: $0.0
+Order Number: 1010, Total Bill: $17.0
+1003,0.0
+1002,0.0
+1020,5.0

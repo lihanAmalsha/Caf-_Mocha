@@ -1,0 +1,2 @@
+1002,Jane Smith,456 Oak Avenue,555-5678,Coffee:1;Croissant:3
+1003,Emily Johnson,789 Pine Road,555-8765,Espresso:1;Muffin:2

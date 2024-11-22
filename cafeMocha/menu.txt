@@ -1,0 +1,13 @@
+Latte,A creamy coffee drink,5.00,Beverage
+Coffee,Black coffee with a bold flavor,3.00,Beverage
+Bagel,A fresh bagel with cream cheese,2.50,Bakery
+Croissant,Flaky, buttery croissant,3.50,Bakery
+Espresso,Strong and rich coffee,4.00,Beverage
+Muffin,Blueberry muffin with a crumbly top,2.75,Bakery
+Latte,A creamy coffee drink,5.0,Beverage
+doughnut,creamy food,12.0,food
+Cup cake,a delicious cup cake,1.0,food
+Cup cake,A strawberry cup cake,3.0,Food
+Steak Burger,A delicious mutton steak burger!,3.0,food
+Pizza,2.0
+Cocacola,3.0
